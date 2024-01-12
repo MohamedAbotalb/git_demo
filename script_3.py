@@ -1,0 +1,1 @@
+print("Hello from script_3.py")
